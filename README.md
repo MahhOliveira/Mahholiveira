@@ -19,3 +19,15 @@
   <img align="center" alt="Mahh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Mahh-pic" height="150" style="border-radius:50px;" 
 </div>
+
+ <div> 
+  
+  
+ 	
+
+  <a href = "mailto:contatooliveiramarcelasilva11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+
+! [Animação de cobras] (https://github.com/Mahholiveira/Mahholiveira/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
