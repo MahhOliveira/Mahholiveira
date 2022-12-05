@@ -22,7 +22,7 @@
 
  <div> 
   
-    <a href = "mailto:contatooliveiramarcelasilva11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
  ![20221205_153418](https://user-images.githubusercontent.com/116836780/205717445-03d5b016-4cae-4f0a-804f-f19aac1f8eec.gif)
 
 
