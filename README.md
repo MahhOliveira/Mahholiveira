@@ -23,7 +23,8 @@
  <div> 
   
     <a href = "mailto:contatooliveiramarcelasilva11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- https://discordapp.com/channels/1015294399237853194/1015294399686651974/1049380239198933084
+ ![20221205_153418](https://user-images.githubusercontent.com/116836780/205717445-03d5b016-4cae-4f0a-804f-f19aac1f8eec.gif)
+
 
 ! [Animação de cobras] (https://github.com/Mahholiveira/Mahholiveira/blob/output/github-contribution-grid-snake.svg)
  
