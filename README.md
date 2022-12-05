@@ -26,6 +26,6 @@
  ![20221205_153418](https://user-images.githubusercontent.com/116836780/205717445-03d5b016-4cae-4f0a-804f-f19aac1f8eec.gif)
 
 
-! [Animação de cobras] (https://github.com/Mahholiveira/Mahholiveira/blob/output/github-contribution-grid-snake.svg)
+! [Animação de cobras] (https://github.com/MahhOliveira)
  
 </div>
