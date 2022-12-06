@@ -1,7 +1,7 @@
-### olá, eu sou a Marcela Oliveira 
-- 20 Anos de idade
-- 🌱 Estudando ADS
-- 💬 contato : oliveirasilvamarcela11@gmail.com
+### Heyy, eu sou a Marcela Oliveira 
+  20 Anos de idade
+ 🌱 Cursando Análise e Desenvolvimento de sistemas 
+ 💬 contato : oliveirasilvamarcela11@gmail.com
 
 <div align="center">
   <a href="https://github.com/Mahholiveira">
@@ -22,9 +22,7 @@
 
  <div> 
   
-    
  ![20221205_153418](https://user-images.githubusercontent.com/116836780/205717445-03d5b016-4cae-4f0a-804f-f19aac1f8eec.gif)
-
 
 ![Snake animation](https://github.com/MahhOliveira/MahhOliveira/blob/output/github-contribution-grid-snake.svg)
 
