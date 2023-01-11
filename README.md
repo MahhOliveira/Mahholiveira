@@ -1,5 +1,6 @@
 ### Heyy, eu sou a Marcela Oliveira 
   20 Anos de idade
+  - Buscando experiência profissional
  🌱 Cursando Análise e Desenvolvimento de sistemas 
  💬 contato : oliveirasilvamarcela11@gmail.com
 
