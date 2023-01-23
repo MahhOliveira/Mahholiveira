@@ -29,4 +29,4 @@ www.linkedin.com/in/marcela-oliveira-707916252 // @Marce_O_S - Telegram
 
 ![Snake animation](https://github.com/MahhOliveira/MahhOliveira/blob/output/github-contribution-grid-snake.svg)
 
-    </div>
+   </div>
