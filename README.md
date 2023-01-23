@@ -4,7 +4,7 @@
   -Estou à procura de minha primeira experiência de trabalho, ainda estou cursando faculdade na área de TI. 
   -Quero desenvolver minhas habilidades e também contribuir para o sucesso da empresa.
   CONTATO : oliveirasilvamarcela11@gmail.com // 
-www.linkedin.com/in/marcela-oliveira-707916252
+www.linkedin.com/in/marcela-oliveira-707916252 // @Marce_O_S - Telegram
 
 <div align="center">
   <a href="https://github.com/Mahholiveira">
