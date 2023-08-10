@@ -1,12 +1,7 @@
 ### Heyy, eu sou a Marcela Oliveira 
   20 Anos de idade
   - Estagiária de suporte de T.I
-  -Procuro oportunidade relacionada à (Análise e Desenvolvimento de Sistemas), que possa trazer novas perspectivas de futuro e crescimento.
-  -Estou à procura de minha primeira experiência de trabalho, ainda estou cursando faculdade na área de TI. 
-  -Quero desenvolver minhas habilidades e também contribuir para o sucesso da empresa.
-  CONTATO : oliveirasilvamarcela11@gmail.com // marcelinha.30silva@gmail.com
-www.linkedin.com/in/marcela-oliveira-707916252 //
-
+  
 <div align="center">
   <a href="https://github.com/Mahholiveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahholiveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
