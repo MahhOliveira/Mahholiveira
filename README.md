@@ -31,5 +31,5 @@
   
 ### GitHub Activity
 
-![Snake animation](https://github.com/Mahh-Oliveira/Mahh-Oliveira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MahhOliveira/MahhOliveira/blob/output/github-contribution-grid-snake.svg)
 
