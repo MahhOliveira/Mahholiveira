@@ -29,8 +29,7 @@
   <a href="https://twitter.com/dev_M_Silva?t=Q3GY5F-_XR8BQ4TrpN9ADg&s=09" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <div> 
   
- ![20221205_153418](https://user-images.githubusercontent.com/116836780/205717445-03d5b016-4cae-4f0a-804f-f19aac1f8eec.gif)
+### GitHub Activity
 
-![Snake animation](https://github.com/MahhOliveira/MahhOliveira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
 
-   </div>
