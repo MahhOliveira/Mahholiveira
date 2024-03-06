@@ -1,6 +1,7 @@
 ### Heyy, eu sou a Marcela Oliveira 
-  21 Anos de idade
-  - Estagiária de suporte de T.I
+
+  Entusiasta de tecnologia apaixonado por desenvolvimento de software.Fascinada por desafios de programação e sempre em busca de aprender algo novo. Contribuindo para a comunidade de código aberto e desenvolvendo soluções inovadoras. Vamos colaborar e criar juntos!
+
   
 <div align="center">
   <a href="https://github.com/Mahholiveira">
