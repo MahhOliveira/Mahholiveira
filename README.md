@@ -1,6 +1,6 @@
 ### Heyy, eu sou a Marcela Oliveira 
 
-  Entusiasta de tecnologia apaixonada por desenvolvimento de software e afins.Fascinada por desafios de programação e sempre em busca de aprender algo novo. Contribuindo para a comunidade de código aberto e desenvolvendo soluções inovadoras. Vamos colaborar e criar juntos!
+  Entusiasta de tecnologia apaixonada por desenvolvimento de software e afins. Fascinada por desafios de programação e sempre em busca de aprender algo novo. Contribuindo para a comunidade de código aberto e desenvolvendo soluções inovadoras. Vamos colaborar e criar juntos!
 
   
 <div align="center">
