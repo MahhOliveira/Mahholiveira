@@ -1,7 +1,13 @@
-### Heyy, eu sou a Marcela Oliveira 
+### Olá, eu sou a Marcela Oliveira 
 
-  Entusiasta de tecnologia apaixonada por desenvolvimento de software e afins. Fascinada por desafios de programação e sempre em busca de aprender algo novo. Contribuindo para a comunidade de código aberto e desenvolvendo soluções inovadoras. Vamos colaborar e criar juntos!
+Sou uma entusiasta de tecnologia apaixonada por desenvolvimento de software e afins. 
+Fascinada por desafios de programação e sempre em busca de aprender algo novo. Contribuindo para a comunidade de código aberto e desenvolvendo soluções inovadoras. 
+Vamos colaborar e criar juntos!
 
+  [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100077130312022)
+  [![discord])](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/)](https://discord.com/channels/@memarce0306)
+   [![telegram])](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white/)](https://web.telegram.org/k/)
+   
   
 <div align="center">
   <a href="https://github.com/Mahholiveira">
