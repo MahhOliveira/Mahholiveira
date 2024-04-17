@@ -8,6 +8,9 @@ Vamos colaborar e criar juntos!
 
  [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white/)](https://web.telegram.org/k/)
   [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/)](https://outlook.office.com/mail/)
+   [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white/)](https://www.behance.net/)
+   [![Fllow](https://img.shields.io/github/followers/{MahhOliveira}.svg?style=social&label=Follow&maxAge=2592000/)
+   
    
    
   
